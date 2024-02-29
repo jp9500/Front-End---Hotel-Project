@@ -1,0 +1,93 @@
+body{
+  
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    nav{
+        border: 1px solid black;
+        gap: 100px;
+        justify-content: flex-start;
+        
+        
+    }
+    .carousel-item{
+        height: 90vh;
+    }
+    .card-img-overlay{
+       
+        max-width: 800px;
+        margin-left: 700px;
+        margin-top: 100px;
+        font-weight:500;
+        font-size: larger;
+    }
+    .para1{
+       text-align: center;
+    }
+    .col-sm-4{
+       margin-left: 200px;
+       margin-top: 30px;
+    }
+    #carousel-caption{
+        max-width: 700px;
+        text-align: center;
+        margin-left: 500px;
+        font-weight: bold;
+        font-size: larger;
+        font-family: 'Times New Roman', Times, serif;
+        color:gold;
+       
+    }
+    #carousel-caption2{
+        max-width: 700px;
+        text-align: center;
+      margin-left: 250px;
+        font-weight: bold;
+        font-size: larger;
+        font-family: 'Times New Roman', Times, serif;
+        color:whitesmoke;
+        color: gold;
+       
+    }
+    #carousel-caption3{
+        max-width: 700px;
+        text-align: center;
+        margin-left: 250px;
+        color: gold;
+        text-shadow: 1px 1px 1px black;
+        font-weight: bold;
+        font-size: larger;
+        font-family: 'Times New Roman', Times, serif;
+        
+       
+    }
+    #offers{
+      border: 1px solid black;
+      font-size: 50px;
+      font-weight: bolder;
+      
+    
+    }
+    .icon{
+        color:yellow;
+       
+      }
+      #message_box{
+        color: whitesmoke;
+        height: 90vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(../image/crop-plate-with-salad.jpg);
+      }
+     
+      a{
+        text-decoration: none;
+        font-weight: bolder;
+        text-align: center;
+      }
+      #morebranches{
+        margin-left: 89%;
+        margin-top: 350px;
+      }
